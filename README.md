@@ -51,6 +51,8 @@ Insights from the top 10 data analyst jobs in 2023:
 - **Wide Salary Range**: Compensation varies from $184,000 to an outlier of $650,000, influenced by role complexity, specialization, and company size. Leadership and high-impact roles (e.g., Director of Analytics at Meta - $336,500) offer significantly higher pay.
 - **Leadership and Experience**: Senior positions consistently command top salaries, emphasizing the value of decision-making, management, and strategic insights. However, specialists in AI, cloud computing, and business intelligence can still earn six figures without moving into leadership.
 
+![Top Paying Jobs](assets\top_paying_jobs.png)
+
 ### 2. Skills for Top Paying Jobs
 
 To identify the skills needed for top-paying jobs, I combined job postings with skills data, revealing key insights into what employers prioritize for high-compensation roles.
@@ -90,6 +92,8 @@ Insights of the most demanded skills for the top 10 highest paying data analyst 
 - R, Pandas, and Snowflake suggest a mix of statistical analysis and cloud-based data management.
 - Azure and Bitbucket show that cloud platforms and version control are also valuable.
 
+![Top Paying Skills](assets\top_paying_skills.png)
+
 ### 3. In-Demand Skills for Data Analysts
 
 This query revealed the most in-demand skills in job postings for remote work arrangements, highlighting key areas of focus.
@@ -112,6 +116,15 @@ ORDER BY
 LIMIT 5;
 ```
 The most in-demand skills for data analysts are SQL, Excel, Python, Tableau, and Power BI. SQL tops the list, highlighting its importance in data management and querying. Excel remains essential for analysis and reporting, while Python is valued for automation and statistical analysis. Tableau and Power BI emphasize the need for strong data visualization skills. A combination of these technical skills can greatly enhance career opportunities in data analytics.
+
+| Skills   | Demand Count |
+|----------|-------------|
+| SQL      | 7,291       |
+| Excel    | 4,611       |
+| Python   | 4,330       |
+| Tableau  | 3,745       |
+| Power BI | 2,609       |
+
 
 ### 4. Skills Based on Salary
 
@@ -139,6 +152,20 @@ Insights about the top paying skills for Data Analysts:
 - **Big Data & AI-related skills offer the highest salaries.** PySpark, DataRobot, and Watson dominate high-paying roles.
 - **Cloud computing and DevOps tools are becoming essential for data analysts.** Kubernetes, GCP, and Bitbucket are valuable additions.
 - **Finance, healthcare, and technology industries are driving the highest-paying roles.** Business intelligence, AI-driven insights, and automation are in demand.
+
+| Skills         | Average Salary ($) |
+|---------------|-------------------|
+| PySpark       | 208,172           |
+| Bitbucket     | 189,155           |
+| Couchbase     | 160,515           |
+| Watson        | 160,515           |
+| DataRobot     | 155,486           |
+| GitLab        | 154,500           |
+| Swift         | 153,750           |
+| Jupyter       | 152,777           |
+| Pandas        | 151,821           |
+| Elasticsearch | 145,000           |
+
 
 ### 5. Most Optimal Skills to Learn
 
@@ -173,6 +200,20 @@ Insights about the most optimal skills to learn for Data Analysts that is high i
 - **Cloud & Big Data:** AWS, Azure, BigQuery, Snowflake, Redshift, Hadoop, and Spark highlight the industry's focus on cloud and data scalability.
 - **BI & Analytics Tools:** Looker, SAS, and Qlik remain relevant for business intelligence roles.
 - **Programming & Database:** SQL, Python, R, and Java are essential but earn less than specialized cloud and big data skills.
+
+| Skill ID | Skills      | Demand Count | Average Salary ($) |
+|----------|------------|--------------|--------------------|
+| 8        | Go         | 27           | 115,320           |
+| 234      | Confluence | 11           | 114,210           |
+| 97       | Hadoop     | 22           | 113,193           |
+| 80       | Snowflake  | 37           | 112,948           |
+| 74       | Azure      | 34           | 111,225           |
+| 77       | BigQuery   | 13           | 109,654           |
+| 76       | AWS        | 32           | 108,317           |
+| 4        | Java       | 17           | 106,906           |
+| 194      | SSIS       | 12           | 106,683           |
+| 233      | Jira       | 20           | 104,918           |
+
 
 # What I Learned
 Throughout this course, I have significantly improved my SQL skills, allowing me to work more efficiently with databases and extract meaningful insights from data. Here are the key areas where I have developed expertise:

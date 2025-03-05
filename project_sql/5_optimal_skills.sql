@@ -42,7 +42,7 @@ WHERE
 ORDER BY
     avg_salary DESC,
     demand_count DESC
-LIMIT 30;
+LIMIT 25;
 
 
 
@@ -66,4 +66,4 @@ HAVING
 ORDER BY
     avg_salary DESC,
     demand_count DESC
-LIMIT 30;
+LIMIT 25;
