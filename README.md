@@ -6,7 +6,7 @@ The SQL queries used in this analysis are available here: [project_sql folder](/
 
 # Background
 
-This job market analysis is based on a course led by respected Data Analyst Luke Barrouse. The capstone project, presented here, explores the data analyst job market using the tools and techniques covered in the course. The raw data used for this analysis can be accessed through the following link: [SQL Course](/https://www.lukebarousse.com/sql).
+This job market analysis is based on a course led by respected Data Analyst Luke Barrouse. The capstone project, presented here, explores the data analyst job market using the tools and techniques covered in the course. The raw data used for this analysis can be accessed through the following link: [SQL Course](https://www.lukebarousse.com/sql).
 
 ###  The objective of my SQL queries was to address the following questions:
 1. What are the top-paying data analyst jobs?
