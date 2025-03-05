@@ -51,7 +51,7 @@ Insights from the top 10 data analyst jobs in 2023:
 - **Wide Salary Range**: Compensation varies from $184,000 to an outlier of $650,000, influenced by role complexity, specialization, and company size. Leadership and high-impact roles (e.g., Director of Analytics at Meta - $336,500) offer significantly higher pay.
 - **Leadership and Experience**: Senior positions consistently command top salaries, emphasizing the value of decision-making, management, and strategic insights. However, specialists in AI, cloud computing, and business intelligence can still earn six figures without moving into leadership.
 
-![Top Paying Jobs](assets\top_paying_jobs.png)
+![Top Paying Jobs](assets/top_paying_jobs.png)
 
 ### 2. Skills for Top Paying Jobs
 
@@ -92,7 +92,7 @@ Insights of the most demanded skills for the top 10 highest paying data analyst 
 - R, Pandas, and Snowflake suggest a mix of statistical analysis and cloud-based data management.
 - Azure and Bitbucket show that cloud platforms and version control are also valuable.
 
-![Top Paying Skills](assets\top_paying_skills.png)
+![Top Paying Skills](assets/top_paying_skills.png)
 
 ### 3. In-Demand Skills for Data Analysts
 
